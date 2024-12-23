@@ -22,52 +22,52 @@ const Initiatives = () => {
     {
       key: uuidv4(),
       content: <img src={sudhaar} alt="1" />,
-      link: "https://swd.vit.edu/flagship/rr/rr.html"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={gyaan} alt="2" />,
-      link: "https://swd.vit.edu/flagship/utkrash/utkarsh.html"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={nirmaan} alt="3" />,
-      link: "https://youtu.be/9xoo9GvsK5o?list=TLGGZyE3b9VU8G8yNDAyMjAyNA"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={gogreen} alt="4" />,
-      link: "https://youtu.be/eifgT3ustW0?list=TLGGYDK2KB_YQJMyNDAyMjAyNA"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={muskaan} alt="5" />,
-      link: "https://swd.vit.edu/flagship/blood-d/blood.html"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={sudhaar} alt="1" />,
-      link: "https://swd.vit.edu/flagship/rr/rr.html"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={gyaan} alt="2" />,
-      link: "https://swd.vit.edu/flagship/aatmabodh/aatmabodh.html"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={nirmaan} alt="3" />,
-      link: "https://youtu.be/9xoo9GvsK5o?list=TLGGZyE3b9VU8G8yNDAyMjAyNA"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={gogreen} alt="4" />,
-      link: "https://youtu.be/eifgT3ustW0?list=TLGGYDK2KB_YQJMyNDAyMjAyNA"
+      link: "/"
     },
     {
       key: uuidv4(),
       content: <img src={muskaan} alt="5" />,
-      link: "https://swd.vit.edu/flagship/blood-d/blood.html"
+      link: "/"
     },
   ].map((slide, index) => {
     return {

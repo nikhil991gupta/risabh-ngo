@@ -8,15 +8,15 @@ export default function Footer() {
                     <div className="col-lg-3 col-md-6">
                         <div className="footer-contact">
                             <h2>Contact Us</h2>
-                            <a href="https://maps.app.goo.gl/HQg6gMPpAJ445cda6" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>VIT, Pune, India</p></a>
+                            <a href="https://maps.app.goo.gl/HQg6gMPpAJ445cda6" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>Muhammadabad India</p></a>
                             <a href="tel:+91-7385223242"><p><i className="fa fa-phone"></i>+91-7385223242</p></a>
-                            <a href="mailto:Risabh-NGO.swd@vit.edu"><p><i className="fa fa-envelope"></i>Risabh-NGO.swd.edu</p></a>
+                            <a href="mailto:Risabh-NGO.swd@vit.edu"><p><i className="fa fa-envelope"></i>Risabh-NGO </p></a>
                             <div className="footer-social">
-                                <a className="btn btn-custom" href="https://twitter.com/vit_socials"><i className="fab fa-x-twitter"></i></a>
-                                <a className="btn btn-custom" href="https://www.facebook.com/vitsocials"><i className="fab fa-facebook-f"></i></a>
-                                <a className="btn btn-custom" href="https://www.instagram.com/vitsocials/"><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-custom" href="https://www.youtube.com/channel/UCJnaNm8Ns08rUIhsdFM2fhA"><i className="fab fa-youtube"></i></a>
-                                <a className="btn btn-custom" href="https://www.linkedin.com/company/vit-social-welfare-development/"><i className="fab fa-linkedin-in"></i></a>
+                                <a className="btn btn-custom" href="https://twitter.com/"><i className="fab fa-x-twitter"></i></a>
+                                <a className="btn btn-custom" href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a>
+                                <a className="btn btn-custom" href="https://www.instagram.com//"><i className="fab fa-instagram"></i></a>
+                                <a className="btn btn-custom" href="https://www.youtube.com/channel/"><i className="fab fa-youtube"></i></a>
+                                <a className="btn btn-custom" href="https://www.linkedin.com/"><i className="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
@@ -55,10 +55,10 @@ export default function Footer() {
             <div className="container copyright">
                 <div className="row">
                     <div className="col-md-6">
-                        <p>&copy; <a href="#">THE Risabh-NGO NGO</a> | 2024, All Right Reserved.</p>
+                        <p>&copy; <a href="#">THE Risabh-NGO </a> | 2024, All Right Reserved.</p>
                     </div>
                     <div className="col-md-6">
-                        <p>Designed By <a href="https://www.linkedin.com/in/bhavesh-patil-92b7aa22a">TY_CS_C_52, VIT, Pune</a></p>
+                        <p>Designed By <a href="/">Shubham </a></p>
                     </div>
                 </div>
             </div>
